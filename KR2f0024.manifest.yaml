@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2f0024_000.yaml, hash: 'sha256:b21885de1e8a1069082b43e4d74010b4554c9013af436ebe77e528f903ecc891'}
   - {seq: 1, filename: KR2f0024_001.yaml, hash: 'sha256:15882ebfa92809722f4d957de6e445d4b1e1fbaefd77d11c8cd1808db6b6ef28'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0024_000.markers.yaml, hash: 'sha256:f78e9a66eb3237ae35ec9201a940e806bcdb2031a4fce99c2228694d5f8d30fa'}
-  - {seq: 1, role: markers, filename: assets/KR2f0024_001.markers.yaml, hash: 'sha256:978c7fb0b694d11911ffd5d586d047ae652a07f06662dd76052fb9bfe9c6e497'}
+  - {seq: 0, role: markers, filename: assets/KR2f0024_000.markers.yaml, hash: 'sha256:cd146e55b677ac9a0e0496e54bb3827c812b20b4d8ba4f7b13a72c2559646b25'}
+  - {seq: 1, role: markers, filename: assets/KR2f0024_001.markers.yaml, hash: 'sha256:e85ef82c6bded93af3d1ebd5472f1b28a759bc51951199de74134811dad56c91'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 垂光集
   type: section
   level: 1
-hash: sha256:52a60730b60738fe78617438eb958062b4cd325905d29d6fbb22bdb779c37035
+hash: sha256:c91a8450580fbcd4494925893f6eb3b46462cbae357162e405279b364eb837ac
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
